@@ -1,9 +1,11 @@
 Hi, I'm ~~Hekbas~~ Héctor. I'm a Game Engine Developer & Graphics Programmer. I specialize in building high-performance systems, custom renderers, and editor tools. [View resume](#).
 
-**Focus:** `C++20` `Unity` `Tooling` `Vulkan` `Graphics`
+`C++20` `Unity` `Tooling` `Vulkan` `Graphics`
 
-| ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hekbas&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hekbas&theme=dracula) |
-| :--- | :--- |
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hekbas&theme=dracula&cache_bust=1" height="165" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hekbas&theme=dracula&cache_bust=1" height="165" alt="languages" />
+</div>
 
 # Recent Projects
 
