@@ -2,14 +2,14 @@ Hi, I'm ~~Hekbas~~ Héctor. I'm a Game Engine Developer & Graphics Programmer. I
 
 **Focus:** `C++20` `Unity` `Tooling` `Vulkan` `Graphics`
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hekbas&show_icons=true&theme=dracula&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hekbas&layout=compact&theme=dracula&hide_border=true) |
+| ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hekbas&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hekbas&theme=dracula) |
 | :--- | :--- |
 
-# Key Projects
+# Recent Projects
 
-1. **[Luth Engine](#)** (C++20, Vulkan)
+1. **[Luth Engine](https://github.com/Hekbas/Luth)** (C++20, Vulkan)
    - A modern, data-oriented game engine featuring a fiber-based job system and a bindless Vulkan 1.3 renderer. Started as my bachelor thesis.
-2. **Unannounced Indie Title** (Unity, URP, HLSL)
-   - Developing a complete procedural world generation tool, including custom tessellation and post-processing shaders.
-3. **[TheOneEngine](#)** (C++, OpenGL)
+2. **Red Rising** (Unity, URP, HLSL)
+   - Unannounced Indie Title. Developing a complete procedural world generation tool, including custom tessellation and post-processing shaders.
+3. **[TheOneEngine](https://github.com/Shadow-Wizard-Games/TheOneEngine)** (C++, OpenGL)
    - My early exploration into engine development, featuring a custom OpenGL renderer.
