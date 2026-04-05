@@ -4,8 +4,15 @@ I'm a programmer with a deep passion for **Game Engine Development** and **Compu
 `C++20` `Vulkan` `Unity` `HLSL/GLSL` `Tooling`
 
 <div align="center">
-  <img src="./profile-summary-cards/profile-details/dracula.svg" height="165" alt="stats" />
-  <img src="./profile-summary-cards/profile-details/top-languages/dracula.svg" height="165" alt="languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg">
+    <img alt="stats" src="./profile-summary-card-output/dracula/0-profile-details.svg" height="165">
+  </picture>&nbsp;<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg">
+    <img alt="languages" src="./profile-summary-card-output/dracula/1-repos-per-language.svg" height="165">
+  </picture>
 </div>
 
 ---
